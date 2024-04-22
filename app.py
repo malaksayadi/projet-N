@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import os
 import plotly.express as px
 
 csv_file_path = "https://github.com/nevermind78/DATALM/raw/main/1LM.csv"
